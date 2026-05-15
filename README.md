@@ -15,8 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
 I'm a DevOps Engineer with **4+ years of experience** at **Wipro Technologies**, specialising in monitoring & observability, infrastructure automation, and CI/CD pipelines.
 
 - 🔭 Currently building **Python-based automation for CheckMK** monitoring at Wipro
@@ -27,7 +25,6 @@ I'm a DevOps Engineer with **4+ years of experience** at **Wipro Technologies**,
 
 ---
 
-## 🛠️ Tech Stack
 
 **DevOps & CI/CD**
 
